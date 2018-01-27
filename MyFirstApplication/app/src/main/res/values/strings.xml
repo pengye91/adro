@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">My First Application</string>
     <string name="hello_world">Hello World</string>
+    <string name="name_text_view">Name</string>
+    <string name="password_text_view">Password</string>
+    <string name="login_button">Login</string>
+    <string name="regis_button">Register</string>
+    <string name="name_hint">input name here</string>
+    <string name="password_hint">input password here</string>
 </resources>
